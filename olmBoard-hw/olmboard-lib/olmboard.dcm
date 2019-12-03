@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62840
+D 750mA Step-Down Converter with DCS-Control, adjustable output, 60 nA ultra-low operating quiescent 1.8-6.5V input voltage, SON-8
+K step-down dc-dc buck regulator ultra-low operating quiescent
+F https://www.ti.com/lit/gpn/TPS62840
+$ENDCMP
+#
+$CMP TPS62840DLC
+D 1.8 V to 3.3 V in 100-mV steps - 750mA Step-Down Converter with DCS-Control, adjustable output, 60 nA ultra-low operating quiescent 1.8-6.5V input voltage, SON-8
+K step-down dc-dc buck regulator ultra-low operating quiescent
+F https://www.ti.com/lit/gpn/TPS62840
+$ENDCMP
+#
+$CMP TPS62841DLC
+D 0.8 V to 1.55 V in 50mV steps -  750mA Step-Down Converter with DCS-Control, adjustable output, 60 nA ultra-low operating quiescent 1.8-6.5V input voltage, SON-8
+K step-down dc-dc buck regulator
+F https://www.ti.com/lit/gpn/TPS62840
+$ENDCMP
+#
+$CMP TPS62849DLC
+D 3.4-V fixed output voltage - 750mA Step-Down Converter with DCS-Control, adjustable output, 60 nA ultra-low operating quiescent 1.8-6.5V input voltage, SON-8
+K step-down dc-dc buck regulator
+F https://www.ti.com/lit/gpn/TPS62840
+$ENDCMP
+#
+#End Doc Library

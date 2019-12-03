@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name olmboard)(type Legacy)(uri D:/Cloud-Drives/Google-Drive-1/FILE_EXCHANGE/PCB_Projects/KiCAD/olmBoard-ULP-module/olmBoard-hw/olmboard-lib/olmboard.lib)(options "")(descr ""))
+  (lib (name olmBoard-v1-rescue)(type Legacy)(uri ${KIPRJMOD}/olmBoard-v1-rescue.lib)(options "")(descr ""))
+)
