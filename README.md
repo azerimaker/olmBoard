@@ -11,4 +11,4 @@ Inital sweep load test results w/ 0.1A and 10 sec increments using EBD-USB load 
 
 ![olmBoard v0.1 Load Test Chart](olmBoard-docs/olmBoard-v01-Load-Test-chart.png)
 
-![olmBoard v0.1 Load Test Graph](olmBoard-docs/olmBoard-v01-Load-Test-graph.png)
+![olmBoard v0.1 Load Test Graph](olmBoard-docs/olmBoard-v01-Load-Test-graph.bmp)
